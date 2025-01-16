@@ -9,7 +9,7 @@ format:
   docx: default
 ---
 
-![](images/clipboard-3801760617.jpeg)
+![](poltekapp.jpg)
 
 ## Pendahuluan
 
