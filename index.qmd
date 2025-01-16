@@ -9,7 +9,6 @@ format:
   docx: default
 ---
 
-![](poltekapp.jpg)
 
 ## Pendahuluan
 
